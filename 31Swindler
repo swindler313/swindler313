@@ -1,18 +1,5 @@
 gg.alert("SWINDLER V2  ")
 gg.alert("Son Güncellemeler İçin @SwindlerStore ")
---єяαιѕєя
-if gg.isPackageInstalled("com.htx") then 
-else 
-gg.alert("Swindler Gg Kullan 😂") 
-os.exit() 
-end 
-if gg.PACKAGE == "com.htx" then 
-else 
-gg.alert("Swindler Gg Kullan 😂") 
-os.exit() 
-end
-
-
 AntiHook =[[
 if tostring(gg):match('function: @(.-):') then
         print("❤️AntiHook Detected❤️")
